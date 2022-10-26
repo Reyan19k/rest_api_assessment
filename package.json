@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.7.0"
+  },
+  "name": "rest_api",
+  "description": "��#\u0000 \u0000r\u0000e\u0000s\u0000t\u0000_\u0000a\u0000p\u0000i\u0000_\u0000a\u0000s\u0000s\u0000e\u0000s\u0000s\u0000m\u0000e\u0000n\u0000t\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reyan19k/rest_api_assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reyan19k/rest_api_assessment/issues"
+  },
+  "homepage": "https://github.com/Reyan19k/rest_api_assessment#readme"
+}
